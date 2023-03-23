@@ -7,4 +7,4 @@ Este Proyecto esta desarrollado para la **Universidad Continental**
 | Header | Title |
 | Paragraph | Text |
 
-	![alt text](image.jpg)
+![alt text](image.jpg)
